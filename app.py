@@ -1,5 +1,5 @@
 def afficher_accueil():
-    print("Bienvenue depuis main")
+    print("Connexion : bienvenue utilisateur")
 
 
 def main():
