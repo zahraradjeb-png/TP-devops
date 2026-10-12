@@ -1,5 +1,5 @@
 def afficher_accueil():
-    print("Bienvenue dans le gestionnaire de taches")
+    print("Connexion : bienvenue utilisateur")
 
 
 def main():
